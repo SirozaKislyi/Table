@@ -1,0 +1,33 @@
+table {
+        border-collapse: collapse;
+        width: 450px;
+        height: 500px;
+    }
+    
+    tr {
+        height: 50px;
+    }
+    
+    td {
+        border: 6px solid #030303;
+        width: 60px;
+    }
+.opacity{
+    opacity:0;
+}
+    
+    .yellow {
+        background-color:#dddd5b;
+    }
+    
+    .red {
+        background-color: #ba2020;
+    }
+    
+    .black {
+        background-color: #211e1e;
+    }
+    
+    .blue {
+        background-color: #3a3ab5;
+    }
